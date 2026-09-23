@@ -1,13 +1,38 @@
 # AI Financial Services Suite
 
-AI for banking, lending and investment operations — risk, compliance and automation.
+> Compliance-first AI for banks, insurers and fintechs.
 
-Part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
+AI suite for financial services — KYC/AML, fraud detection, reporting and customer intelligence. Part of the **Zion AI App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-- 🏠 Homepage: https://ziontechgroup.com
-- 📂 Full app catalog: https://ziontechgroup.com/apps/
-- 📢 About the network: https://ziontechgroup.com/app-network/
-- 💻 GitHub org: https://github.com/Zion-support
+**Live app:** https://ziontechgroup.com/ai-financial-services-suite/
+
+## Features
+- KYC/AML screening with explainable risk scores
+- Real-time transaction fraud detection
+- Regulatory reporting automation (SOX, Basel, MiFID II support)
+- Customer 360 with next-best-action intelligence
+- Model risk management documentation for regulators
+- Core banking integrations and secure APIs
+
+## Use Cases
+- Cut false positives in AML alerts by 60%+
+- Automate regulatory evidence collection
+- Personalize banking offers with compliant AI
+
+## Related Apps in the Zion App Network
+- [ai-banking-platform](https://github.com/Zion-support/ai-banking-platform) — https://ziontechgroup.com/ai-banking-platform/
+- [zion-ai-fraud-detection](https://github.com/Zion-support/zion-ai-fraud-detection)
+- [zion-ai-compliance-scanner](https://github.com/Zion-support/zion-ai-compliance-scanner) — https://ziontechgroup.com/zion-ai-compliance-scanner/
+- [ai-billing-automation](https://github.com/Zion-support/ai-billing-automation) — https://ziontechgroup.com/ai-billing-automation/
+- [ai-audit-logger](https://github.com/Zion-support/ai-audit-logger) — https://ziontechgroup.com/ai-audit-logger/
+
+## Explore the Network
+- 🗂️ Master directory — [Zion App Network](https://github.com/Zion-support/zion-app-network) — https://ziontechgroup.com/zion-app-network/
+- 🌐 Homepage: https://ziontechgroup.com
+- 🧰 All tools: https://ziontechgroup.com/tools/
+- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
+- 📞 Discovery call: https://ziontechgroup.com/discovery/
 - ✉️ Contact: commercial@ziontechgroup.com
 
-Related apps: [ai-banking-platform](https://github.com/Zion-support/ai-banking-platform) · [ai-fraud-prevention](https://github.com/Zion-support/ai-fraud-prevention) · [ai-book-keeper](https://github.com/Zion-support/ai-book-keeper)
+---
+© 2026 Zion Tech Group
