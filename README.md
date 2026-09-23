@@ -25,6 +25,8 @@ AI suite for financial services — KYC/AML, fraud detection, reporting and cust
 - [zion-ai-compliance-scanner](https://github.com/Zion-support/zion-ai-compliance-scanner) — https://ziontechgroup.com/zion-ai-compliance-scanner/
 - [ai-billing-automation](https://github.com/Zion-support/ai-billing-automation) — https://ziontechgroup.com/ai-billing-automation/
 - [ai-audit-logger](https://github.com/Zion-support/ai-audit-logger) — https://ziontechgroup.com/ai-audit-logger/
+- [Churn Risk Radar](https://ziontechgroup.com/churn-risk-radar/) — health scores and save plays ([repo](https://github.com/Zion-support/churn-risk-radar))
+- [Vendor Questionnaire Autopilot](https://ziontechgroup.com/vendor-questionnaire-autopilot/) — auto-answer security questionnaires ([repo](https://github.com/Zion-support/vendor-questionnaire-autopilot))
 
 ## Explore the Network
 - 🗂️ Master directory — [Zion App Network](https://github.com/Zion-support/zion-app-network) — https://ziontechgroup.com/zion-app-network/
@@ -33,6 +35,9 @@ AI suite for financial services — KYC/AML, fraud detection, reporting and cust
 - 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
 - 📞 Discovery call: https://ziontechgroup.com/discovery/
 - ✉️ Contact: commercial@ziontechgroup.com
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Security & Compliance](https://github.com/Zion-support/zion-network/blob/main/network/security-compliance.md) · [Customer Success & Retention](https://github.com/Zion-support/zion-network/blob/main/network/customer-success-retention.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://ziontechgroup.com/en/plans/)
 
 ---
 © 2026 Zion Tech Group
