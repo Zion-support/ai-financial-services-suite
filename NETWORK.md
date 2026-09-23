@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Financial Services Suite
 
-**ai-financial-services-suite** is part of the Zion Tech Group app network (640+ apps).
+Banking, lending, and investment AI.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🏠 [Zion Tech Group](https://ziontechgroup.com) · 💼 [Plans](https://ziontechgroup.com/en/plans/) · 📞 [Discovery](https://ziontechgroup.com/discovery/)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-banking-platform](https://github.com/Zion-support/ai-banking-platform) · [ai-fraud-prevention](https://github.com/Zion-support/ai-fraud-prevention) · [ai-book-keeper](https://github.com/Zion-support/ai-book-keeper) · [invoice-match-ai](https://github.com/Zion-support/invoice-match-ai) · [zion-invoice-genius](https://github.com/Zion-support/zion-invoice-genius)
 
-## Related apps
-- [ai-finops-suite](https://github.com/Zion-support/ai-finops-suite) — https://ziontechgroup.com/ai-finops-suite/
-- [ai-services](https://github.com/Zion-support/ai-services) — https://ziontechgroup.com/ai-services/
-- [ai-banking-platform](https://github.com/Zion-support/ai-banking-platform) — https://ziontechgroup.com/ai-banking-platform/
-- [ai-fraud-prevention](https://github.com/Zion-support/ai-fraud-prevention) — https://ziontechgroup.com/ai-fraud-prevention/
-- [ai-book-keeper](https://github.com/Zion-support/ai-book-keeper) — https://ziontechgroup.com/ai-book-keeper/
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
